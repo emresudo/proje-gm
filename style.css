@@ -1,0 +1,36 @@
+/* Etiketler */
+/* div */
+/* body */
+
+/* Classlar 
+.yuvarlak
+.header
+.container
+*/
+
+/* ID
+#header
+#sayfa-baslik
+*/
+
+body {
+    background-color: #ebeaea;
+}
+
+.header-top {
+    background: blue;
+    /* margin-top: 14px; */
+    padding: 14px;
+}
+/* 
+a {
+    color: white;
+} */
+
+a {
+    text-decoration: none;
+}
+
+.header-top a {
+    color: white;
+}
